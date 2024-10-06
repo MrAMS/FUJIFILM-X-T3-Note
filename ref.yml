@@ -1,0 +1,65 @@
+ref_pic_F:
+    type: Web
+    url: https://zh.wikipedia.org/zh-cn/File:Lenses_with_different_apetures.jpg
+
+ref_pic_DOF:
+    type: Web
+    title: 镜头的基础知识系列：光圈和景深
+    url: https://www.sony.com/zh-cn/electronics/support/articles/00081746
+
+ref_pic_fujifilm_mode:
+    type: Web
+    title: P、S、A 和 M 模式
+    url: https://fujifilm-dsc.com/zhs/manual/x-t3/taking_photo/shooting_mode/index.html
+
+ref_pic_ISO:
+    type: Web
+    title: 在同样快门速度与光圈大小下，使用不同感光度的结果
+    url: https://zh.wikipedia.org/zh-cn/%E6%84%9F%E5%85%89%E5%BA%A6#/media/File:ISO400_&_ISO1600.jpg
+
+ref_pic_fujifilm_ISO:
+    type: Web
+    title: 感光度
+    url: https://fujifilm-dsc.com/zhs/manual/x-t3/taking_photo/iso/index.html
+
+ref_pic_fujifilm_exposure:
+    type: Web
+    title: 曝光补偿
+    url: https://fujifilm-dsc.com/zhs/manual/x-t3/taking_photo/exposure/index.html
+
+ref_pic_fujifilm_film_simulation:
+    type: Web
+    title: Classic Negative film simulation 
+    url: https://fujiframe.com/articles/classic-negative-film-simulation
+
+ref_pic_fujifilm_film_simulation_Velvia:
+    type: Web
+    title: The World of Film Simulation episode 3
+    url: https://fujifilm-x.com/global/stories/the-world-of-film-simulation-episode-3/
+
+ref_pic_fujifilm_film_simulation_CLASSIC_CHROME:
+    type: Web
+    title: The World of Film Simulation episode 2
+    url: https://fujifilm-x.com/global/stories/the-world-of-film-simulation-episode-2/
+
+ref_txt_settings:
+    type: Web
+    title: 富士相机机内设置全解答｜让直出照片更好看｜一个视频终结你全部疑问
+    author: 牧言Photo
+    url: https://www.bilibili.com/video/BV1tM4y1Z75n
+
+ref_txt_fujifilm_film_simulation_image_quality_setting:
+    type: Web
+    title: 拍摄菜单（图像质量设置）
+    url: https://fujifilm-dsc.com/zhs/manual/x-t3/menu_shooting/image_quality_setting/index.html
+
+ref_pic_white_balance:
+    type: Web
+    author: 雄冠数码影像
+    url:  http://xhslink.com/a/25z0UEuaZ0bX
+
+ref_txt_reduce_noise:
+    type: Web
+    author: 博仔光影志
+    title: 富士相机｜一分钟学会高ISO降噪功能怎么用
+    url: http://xhslink.com/a/ZxTqolPgidcX
